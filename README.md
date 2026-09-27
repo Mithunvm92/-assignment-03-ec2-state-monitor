@@ -1000,19 +1000,15 @@ The following screenshots provide evidence of the implementation:
 # Project Structure
 
 ```text
-assignment-03-ec2-state-monitor/
+#assignment-03-ec2-state-monitor/
 │
 ├── lambda_function.py
 ├── README.md
----
-
-#
----
-```text
+```
 
 ---
+
 # Conclusion
-
 This assignment demonstrates an event-driven AWS monitoring workflow using:
 
 - Amazon EC2
